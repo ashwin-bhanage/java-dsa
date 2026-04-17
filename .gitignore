@@ -1,0 +1,12 @@
+.metadata
+.settings
+bin
+.classpath
+.project
+
+# Eclipse specific files
+*.launch
+# IntelliJ IDEA specific files
+.idea
+*.iml
+*.iws
