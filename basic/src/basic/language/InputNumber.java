@@ -14,6 +14,7 @@ public class InputNumber {
 		System.out.print("Enter an integer: ");
 		int number = sc.nextInt();
 		System.out.println("Input number: " + number);
+		sc.close();
 	}
 
 }
